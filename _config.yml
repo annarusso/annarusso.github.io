@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anna Russo"
+title                    : # Anna Russo
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
