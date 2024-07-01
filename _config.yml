@@ -21,7 +21,7 @@ repository               : "annarusso/annarusso.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Anna Russo"
   pronouns         : # example: "she/her"  
   bio              : "Junior Fellow, Harvard Society of Fellows"
