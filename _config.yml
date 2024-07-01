@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : # Anna Russo
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Anna Russo"
 description              : &description "personal description"
 url                      : https://annarusso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
