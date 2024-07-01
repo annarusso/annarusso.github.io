@@ -21,14 +21,14 @@ repository               : "annarusso/annarusso.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "bio-photo-russo.jpg"
   name             : "Anna Russo"
   pronouns         : # example: "she/her"  
   bio              : "Junior Fellow, Harvard Society of Fellows"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
