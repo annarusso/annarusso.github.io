@@ -12,5 +12,6 @@ My research fields are environmental economics, public finance, industrial organ
 
 #### Working Papers
 <small> [Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions](https://annarusso.github.io/papers/aspelund_russo_crp.pdf) (with Karl M. Aspelund) <br>
-[The Effects of Floodplain Regulation on Housing Markets](https://ostriker.github.io/papers/Ostriker-Russo_floodplain-regulations.pdf) (with Abigail Ostriker)
+[The Effects of Floodplain Regulation on Housing Markets](https://ostriker.github.io/papers/Ostriker-Russo_floodplain-regulations.pdf) (with Abigail Ostriker) <br>
+[Waiting or Paying for Healthcare: Evidence from the Veterans Health Administration](https://annarusso.github.io/papers/russo_wait.pdf)
 
