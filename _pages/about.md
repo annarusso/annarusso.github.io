@@ -11,3 +11,5 @@ redirect_from:
 My research fields are environmental economics, public finance, industrial organization, and market design.
 
 #### Working Papers
+<small> [Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions](https://annarusso.github.io/papers/aspelund_russo_crp.pdf)
+
