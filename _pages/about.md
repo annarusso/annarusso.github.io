@@ -7,3 +7,6 @@ redirect_from:
   - /about.html
 ---
 
+My research fields are environmental economics, public finance, industrial organization, and market design.
+
+### Working Papers
