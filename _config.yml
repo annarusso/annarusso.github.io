@@ -22,7 +22,7 @@ repository               : "annarusso/annarusso.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo-3.png"
-  name             : '&nbsp;&nbsp;&nbsp;&nbsp;Anna Russo'
+  name             : '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anna Russo'
   pronouns         : # example: "she/her"  
   bio              : '<a href="https://annarusso.github.io/files/cv_july2024.pdf">CV</a>'
   location         : #"Earth"
