@@ -24,7 +24,7 @@ author:
   avatar           : "bio-photo-3.png"
   name             : "Anna Russo"
   pronouns         : # example: "she/her"  
-  bio              : "Junior Fellow, Harvard Society of Fellows <br>  <br> <a href="https://annarusso.github.io/files/cv_july2024.pdf">CV</a> "
+  bio              : 'Junior Fellow, Harvard Society of Fellows <br> <br> <a href="https://annarusso.github.io/files/cv_july2024.pdf">CV</a>'
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
