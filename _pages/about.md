@@ -11,4 +11,4 @@ redirect_from:
 
 <small> My research fields are environmental economics, public finance, industrial organization, and market design.
 
-<small> ### Working Papers
+#### Working Papers
