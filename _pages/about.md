@@ -11,6 +11,6 @@ redirect_from:
 My research fields are environmental economics, public finance, industrial organization, and market design.
 
 #### Working Papers
-<small> [Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions](https://annarusso.github.io/papers/aspelund_russo_crp.pdf) (with Karl M. Aspelund)
-<small> [The Effects of Floodplain Regulation on Housing Markets](https://ostriker.github.io/papers/Ostriker-Russo_floodplain-regulations.pdf) (with Abigail Ostriker)
+<small> [Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions](https://annarusso.github.io/papers/aspelund_russo_crp.pdf) (with Karl M. Aspelund) <br>
+[The Effects of Floodplain Regulation on Housing Markets](https://ostriker.github.io/papers/Ostriker-Russo_floodplain-regulations.pdf) (with Abigail Ostriker)
 
