@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-### Bio
 I am a Junior Fellow at the Harvard Society of Fellows. In 2026, I will be an Assistant Professor of Economics at Harvard University.
 
 
