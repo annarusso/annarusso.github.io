@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 <span style="font-size:0.8em;">
-I am a Junior Fellow at the Harvard Society of Fellows. In 2026, I will be an Assistant Professor of Economics at Harvard University.</span>
+I am a Junior Fellow at the Harvard Society of Fellows. In 2026, I will be an Assistant Professor of Economics at Harvard University.
+
+</span>
 
 <span style="font-size:0.8em;">
 My research fields are environmental economics, public finance, industrial organization, and market design.</span>
