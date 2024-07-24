@@ -1,13 +1,12 @@
 ---
 permalink: /
 title: 
-author_profile: 
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### Bio
 <span style="font-size:0.9em;">
 I am a Junior Fellow at the Harvard Society of Fellows. In 2026, I will be an Assistant Professor of Economics at Harvard University.
 
