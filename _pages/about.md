@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<span style="font-size:0.9em;">
 I am a Junior Fellow at the Harvard Society of Fellows. In 2026, I will be an Assistant Professor of Economics at Harvard University.
 
 
@@ -21,4 +22,5 @@ My research fields are environmental economics, public finance, industrial organ
 
 
 [Waiting or Paying for Healthcare: Evidence from the Veterans Health Administration](https://annarusso.github.io/papers/russo_wait.pdf)
+</span>
 
