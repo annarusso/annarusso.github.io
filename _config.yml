@@ -24,7 +24,7 @@ author:
   avatar           : "bio-photo-3.png"
   name             : "Anna Russo"
   pronouns         : # example: "she/her"  
-  bio              : '<a href="https://annarusso.github.io/files/CV.pdf">CV</a>&nbsp;&nbsp;|&nbsp;&nbsp;arusso@fas.harvard.edu'
+  bio              : 'arusso@fas.harvard.edu'
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
