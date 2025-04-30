@@ -17,9 +17,7 @@ My research fields are environmental economics, public finance, industrial organ
 
 ### Working Papers
 <span style="font-size:0.9em;">
-[Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions](https://annarusso.github.io/papers/aspelund_russo_crp.pdf) (with Karl M. Aspelund)
-
-  Revise and Resubmit, _American Economic Review_
+[Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions](https://annarusso.github.io/papers/aspelund_russo_crp.pdf) (with Karl M. Aspelund). Revise and Resubmit, _American Economic Review_
 
 
 <span style="font-size:0.9em;">
