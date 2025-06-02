@@ -28,3 +28,8 @@ My research fields are environmental economics, public finance, industrial organ
 [Waiting or Paying for Healthcare: Evidence from the Veterans Health Administration](https://annarusso.github.io/papers/russo_wait.pdf)
 
 
+### Publications
+<span style="font-size:0.9em;">
+[The Shape of Regulation: 40 Years of Florida Flood Maps](https://annarusso.github.io/papers/ostriker-russo-2025-the-shape-of-regulation-40-years-of-florida-flood-maps.pdf) (with Abigail Ostriker). _AEA Papers and Proceedings_, May 2025
+
+
