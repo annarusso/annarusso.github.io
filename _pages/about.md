@@ -17,7 +17,7 @@ My research fields are environmental economics, public finance, industrial organ
 
 ### Working Papers
 <span style="font-size:0.9em;">
-[The Effects of Floodplain Regulation on Housing Markets](https://ostriker.github.io/papers/Ostriker-Russo_floodplain-regulations.pdf) (with Abigail Ostriker)
+[Flood Risk, Regulated Adaptation, and Housing Supply: Evidence from Florida](https://ostriker.github.io/papers/Ostriker-Russo_floodplain-regulations.pdf) (with Abigail Ostriker)
 
 
 <span style="font-size:0.9em;">
@@ -26,7 +26,7 @@ My research fields are environmental economics, public finance, industrial organ
 
 ### Publications
 <span style="font-size:0.9em;">
-[Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions](https://annarusso.github.io/papers/aspelund_russo_crp.pdf) (with Karl M. Aspelund). Forthcoming, _American Economic Review_
+[Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions](https://annarusso.github.io/papers/aspelund_russo_crp.pdf) (with Karl M. Aspelund). _American Economic Review_, August 2026.
 
 
 <span style="font-size:0.9em;">
